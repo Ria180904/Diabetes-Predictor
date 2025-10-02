@@ -15,7 +15,7 @@ _Python Libraries:_ NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 _Tools:_ Jupyter Notebook
 
 _Dataset:_ PIMA Indian Diabetes Dataset (from Kaggle / UCI repository)
-'''
+
 ## 📂 Project Structure
 ```
 Diabetes_Predictor/
