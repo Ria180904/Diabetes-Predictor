@@ -36,7 +36,7 @@ jupyter notebook Diabetes_Predictor.ipynb
 To provide a simple machine learning-based tool for early diabetes risk detection, enabling individuals and healthcare professionals to take preventive measures.
 
 # Future Enhancement
-Deploy as a web/mobile app for real-time predictions
-Integrate larger and more diverse medical datasets
-Implement deep learning models for improved accuracy
-Add visualization dashboards for better interpretability
+- Deploy as a web/mobile app for real-time predictions
+- Integrate larger and more diverse medical datasets
+- Implement deep learning models for improved accuracy
+- Add visualization dashboards for better interpretability
