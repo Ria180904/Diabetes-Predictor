@@ -25,7 +25,7 @@ Diabetes_Predictor/
 ```
 
 
-# Installation & Usage
+# Usage
 _Run the Jupyter Notebook:_
 
 jupyter notebook Diabetes_Predictor.ipynb
