@@ -18,12 +18,14 @@ Tools: Jupyter Notebook
 
 Dataset: PIMA Indian Diabetes Dataset (from Kaggle / UCI repository)
 '''
-# Project Structure
+## 📂 Project Structure
+```
 Diabetes_Predictor/
 │── Diabetes_Predictor.ipynb   # Jupyter Notebook with full workflow
 │── README.md                  # Project documentation
-│── dataset.csv                # Dataset file 
-'''
+│── dataset.csv                # Dataset file
+```
+
 
 # Installation & Usage
 Run the Jupyter Notebook:
