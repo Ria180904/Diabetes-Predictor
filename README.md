@@ -10,13 +10,11 @@ The Diabetes Predictor is a machine learning-based project that aims to predict 
 
 # Technologies Used
 
-Python
+_Python Libraries:_ NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+_Tools:_ Jupyter Notebook
 
-Tools: Jupyter Notebook
-
-Dataset: PIMA Indian Diabetes Dataset (from Kaggle / UCI repository)
+_Dataset:_ PIMA Indian Diabetes Dataset (from Kaggle / UCI repository)
 '''
 ## 📂 Project Structure
 ```
@@ -28,7 +26,7 @@ Diabetes_Predictor/
 
 
 # Installation & Usage
-Run the Jupyter Notebook:
+_Run the Jupyter Notebook:_
 
 jupyter notebook Diabetes_Predictor.ipynb
 
